@@ -13,4 +13,6 @@ def multiplication(base_amount, second_amount):
     return base_amount * second_amount
 
 
-
+def Division(base_amount, second_amount):
+    """ this function return Division of inputs that is two float number"""
+    return base_amount / second_amount
