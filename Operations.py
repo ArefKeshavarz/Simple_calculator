@@ -8,4 +8,9 @@ def subtraction(base_amount, second_amount):
     return base_amount - second_amount
 
 
+def multiplication(base_amount, second_amount):
+    """ this function return multiplication of inputs that is two float number """
+    return base_amount * second_amount
+
+
 
